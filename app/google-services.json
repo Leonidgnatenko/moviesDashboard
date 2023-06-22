@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "823787467600",
+    "project_id": "sly-joker",
+    "storage_bucket": "sly-joker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823787467600:android:2cf86765e1e4736876f255",
+        "android_client_info": {
+          "package_name": "com.geeerty.slyjoker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823787467600-7udjh2lg9i5t4b84jvk5e0cjtjmddsk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCInL_uQWtvuJ8YZyca6-PJVEu2MrHFJ1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823787467600-7udjh2lg9i5t4b84jvk5e0cjtjmddsk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
